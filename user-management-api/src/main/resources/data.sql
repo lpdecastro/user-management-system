@@ -1,0 +1,11 @@
+insert into users (name, email, role, team) values ('John Doe', 'john@example.com', 'Admin', 'Engineering');
+insert into users (name, email, role, team) values ('Jane Doe', 'jane@example.com', 'Admin', 'Marketing');
+insert into users (name, email, role, team) values ('Alex Doe', 'alex@example.com', 'Admin', 'Marketing');
+insert into users (name, email, role, team) values ('Bea Doe', 'bea@example.com', 'Manager', 'Marketing');
+insert into users (name, email, role, team) values ('Casey Doe', 'casey@example.com', 'Manager', 'Marketing');
+insert into users (name, email, role, team) values ('Dennise Doe', 'dennise@example.com', 'Manager', 'Engineering');
+insert into users (name, email, role, team) values ('Frank Doe', 'frank@example.com', 'Manager', 'Engineering');
+insert into users (name, email, role, team) values ('Gary Doe', 'gary@example.com', 'Member', 'Design');
+insert into users (name, email, role, team) values ('Harry Doe', 'harry@example.com', 'Member', 'Design');
+insert into users (name, email, role, team) values ('Ian Doe', 'ian@example.com', 'Member', 'Design');
+insert into users (name, email, role, team) values ('Karl Doe', 'karl@example.com', 'Member', 'Engineering');
